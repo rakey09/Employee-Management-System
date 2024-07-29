@@ -29,7 +29,7 @@ This is a Spring Boot application for managing employees. It provides CRUD opera
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/rakey09/employee-management-system.git
    cd employee-management-system
    ```
 
